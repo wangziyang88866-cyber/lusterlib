@@ -1,0 +1,13 @@
+{
+  "itemGroup.lusterlib": "Example Mod Tab",
+  "block.lusterlib.example_block": "Example Block",
+  "item.lusterlib.example_item": "Example Item",
+
+  "lusterlib.configuration.title": "lusterlib Configs",
+  "lusterlib.configuration.section.lusterlib.common.toml": "lusterlib Configs",
+  "lusterlib.configuration.section.lusterlib.common.toml.title": "lusterlib Configs",
+  "lusterlib.configuration.items": "Item List",
+  "lusterlib.configuration.logDirtBlock": "Log Dirt Block",
+  "lusterlib.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lusterlib.configuration.magicNumber": "Magic Number"
+}
